@@ -1,7 +1,8 @@
 # Infinity Auto Packager
 
 # What this tool do?
-It automatically generates Infinity Engine mod packages and adds them to release when you publish it.
+It automatically generates Infinity Engine mod packages and adds them to release when you publish it.  
+Example below comes from https://github.com/ALIENQuake/InfinityAutoPackager-Example
 
 ![](https://camo.githubusercontent.com/dd9fba57de0ba54dd2fd176672c8998ed7e44f0f/68747470733a2f2f73352e67696679752e636f6d2f696d616765732f4e6167727977616a5f323032305f30325f31375f31355f31315f34395f3932392e676966)
 
