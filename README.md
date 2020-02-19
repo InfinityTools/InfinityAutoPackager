@@ -14,7 +14,7 @@ By using Github webpage directly
 ![](https://i.imgur.com/AdQe2jf.png)
 1. paste this into the filename `.github/workflows/InfinityAutoPackager.yaml`, do not skip dot at the beginning 
 ![](https://i.imgur.com/kazdfBr.png)
-1. Open ["Infinity Auto Packager"](https://github.com/InfinityTools/InfinityAutoPackager/blob/master/.github/workflows/InfinityAutoPackager.yaml) file, copy all content and paste it into editor
+1. Open ["Infinity Auto Packager"](https://raw.githubusercontent.com/InfinityTools/InfinityAutoPackager/master/.github/workflows/InfinityAutoPackager.yaml) file, copy all content and paste it into editor
 1. Click "Commit new file" in order to save changes
 
 By commiting to the repository  
