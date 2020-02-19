@@ -17,6 +17,7 @@ By using Github webpage directly
 1. Open ["Infinity Auto Packager"](https://raw.githubusercontent.com/InfinityTools/InfinityAutoPackager/master/.github/workflows/InfinityAutoPackager.yaml) file, copy all content and paste it into editor
 1. Click "Commit new file" in order to save changes
 ![](https://i.imgur.com/N6PKhUW.png)
+
 By commiting to the repository  
 
 1. Download this repository, extract InfinityAutoPackager-master.zip file
