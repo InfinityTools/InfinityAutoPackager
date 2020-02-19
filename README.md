@@ -18,9 +18,9 @@ The example below comes from https://github.com/ALIENQuake/InfinityAutoPackager-
 <summary>Spoiler</summary>
 1. Open the main page of your mod, locate "Create new file" button 
 <img src="https://i.imgur.com/AdQe2jf.png">
-1. paste this into the filename `.github/workflows/InfinityAutoPackager.yaml`, do not skip dot at the beginning 
+2. paste this into the filename `.github/workflows/InfinityAutoPackager.yaml`, do not skip dot at the beginning 
 <img src="https://i.imgur.com/kazdfBr.png">
-1. Open ["Infinity Auto Packager"](https://raw.githubusercontent.com/InfinityTools/InfinityAutoPackager/master/.github/workflows/InfinityAutoPackager.yaml) file, copy all content and paste it into the editor, then click "Commit new file" in order to save changes
+3. Open <a href="https://raw.githubusercontent.com/InfinityTools/InfinityAutoPackager/master/.github/workflows/InfinityAutoPackager.yaml">Infinity Auto Packager</a> file, copy all content and paste it into the editor, then click "Commit new file" in order to save changes
 <img src="https://i.imgur.com/N6PKhUW.png">
 </details>
 
