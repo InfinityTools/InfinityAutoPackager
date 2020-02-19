@@ -10,10 +10,12 @@ The example below comes from https://github.com/ALIENQuake/InfinityAutoPackager-
 
 By using Github webpage directly  
 
-1. Open ["Infinity Auto Packager"](https://github.com/InfinityTools/InfinityAutoPackager/blob/master/.github/workflows/InfinityAutoPackager.yaml) file, copy all content to you clipboard
 1. Open main page of you mod, locate "Create new file" button 
+![](https://i.imgur.com/AdQe2jf.png)
 1. paste this into the filename `.github/workflows/InfinityAutoPackager.yaml`
-1. Commit and push changes to the remote repository
+![](https://i.imgur.com/kazdfBr.png)
+1. Open ["Infinity Auto Packager"](https://github.com/InfinityTools/InfinityAutoPackager/blob/master/.github/workflows/InfinityAutoPackager.yaml) file, copy all content and paste it into editor
+1. Click "Commit new file" in order to save changes
 
 By commiting to the repository  
 
