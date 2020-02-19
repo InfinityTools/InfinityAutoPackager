@@ -4,9 +4,9 @@
 It automatically generates Infinity Engine mod packages and adds them to release when you publish it.
 
 ## What are Infinity Engine mod packages?
-- .zip package
+- .zip package  
 Standardized, universal and cross-platform Infinity Engine Mod Package with .zip file extension. It has WeiDU executable for Windows and macOS (for Linux is impossible) and .command file for macOS.
-- .iemod package
+- .iemod package  
 Only for mod managers. Offers a "double-click at file>extract>install" feature.
 
 ## General info
