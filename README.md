@@ -21,7 +21,8 @@ Example:
 
 ## How to do the one-time installation inside you mod repository  
 - By committing to the repository  
-
+1. Open repository Settings, go to "Actions", check if you have "Enable local and third party Actions for this repository" enabled  
+![Settings-Actions](https://i.imgur.com/i4fzaVf.png)
 1. Download [Infinity Auto Packager](https://github.com/InfinityTools/InfinityAutoPackager/archive/master.zip) repository, extract InfinityAutoPackager-master.zip file
 1. Copy '.github' folder into you top-level folder of the mod repository
 1. Commit and push changes to the remote repository
