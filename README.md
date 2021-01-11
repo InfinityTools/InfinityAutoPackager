@@ -1,18 +1,22 @@
-# Infinity Auto Packager
+Infinity Auto Packager
 
 ## What does this tool do?
 It automatically generates Infinity Engine mod packages and adds them to release when you publish it.
 
 ## What are Infinity Engine mod packages?
+They are standardized, universal and cross-platform Infinity Engine Mod Packages
+
 - .zip package  
 Standardized, universal and cross-platform Infinity Engine Mod Package with .zip file extension. It has WeiDU executable for Windows and macOS (for Linux is impossible) and .command file for macOS.
 - .iemod package  
-Only for mod managers. Offers a "double-click at file>extract>install" feature.
+The ![IEMOD format](https://github.com/ALIENQuake/ProjectInfinity/wiki/Specification-of-the-IEMOD-file-format) is intended to be a platform-independent distribution format for modifications for games using the Infinity Engine. The .iemod packages are used mainly by mod managers. Among other things, they offer a "double-click at file>extract>install" feature.
 
 ## General info
-- the tool is serverless aka it will work as long GitHub will exist in any form
-- packages always have latest WeiDU version
-- the package version is taken directly from tp2 file
+- can be combined with the ModRelease tool
+- the package name is taken from mod metadata ini file
+- the package version is taken directly from the tp2 file
+- packages always have the latest WeiDU version, at the time when they were created
+- the tool is a serverless microservice - it will work as long GitHub Actions will exist in any form
 
 Example:
 (from https://github.com/ALIENQuake/InfinityAutoPackager-Example)
