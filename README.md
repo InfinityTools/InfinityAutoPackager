@@ -1,7 +1,7 @@
 Infinity Auto Packager
 
 ## What does this tool do?
-It automatically generates Infinity Engine mod packages and adds them to release when you publish it.
+A tool that automatically generates Infinity Engine mod packages when you publish a release.
 
 ## What are Infinity Engine mod packages?
 They are standardized, universal and cross-platform Infinity Engine Mod Packages
