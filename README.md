@@ -9,7 +9,7 @@ They are standardized, universal and cross-platform Infinity Engine Mod Packages
 - .zip package  
 Standardized, universal and cross-platform Infinity Engine Mod Package with .zip file extension. It has WeiDU executable for Windows and macOS (for Linux is impossible) and .command file for macOS.
 - .iemod package  
-The ![IEMOD format](https://github.com/ALIENQuake/ProjectInfinity/wiki/Specification-of-the-IEMOD-file-format) is intended to be a platform-independent distribution format for modifications for games using the Infinity Engine. The .iemod packages are used mainly by mod managers. Among other things, they offer a "double-click at file>extract>install" feature.
+The IEMOD format (https://github.com/ALIENQuake/ProjectInfinity/wiki/Specification-of-the-IEMOD-file-format) is intended to be a platform-independent distribution format for modifications for games using the Infinity Engine. The .iemod packages are used mainly by mod managers. Among other things, they offer a "double-click at file>extract>install" feature.
 
 ## General info
 - can be combined with the ModRelease tool
