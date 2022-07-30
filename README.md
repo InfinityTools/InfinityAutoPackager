@@ -13,7 +13,7 @@ Standardized, universal and cross-platform Infinity Engine Mod Package with .zip
 The IEMOD format (https://github.com/ALIENQuake/ProjectInfinity/wiki/Specification-of-the-IEMOD-file-format) is intended to be a platform-independent distribution format for modifications for games using the Infinity Engine. The .iemod packages are used mainly by mod managers. Among other things, they offer a "double-click at file>extract>install" feature.
 
 ## General info
-- can be combined with the ModRelease tool
+- can be combined with the [ModRelease](https://forums.beamdog.com/discussion/74811/modrelease-create-new-github-release-from-commandline/p1) tool
 - the package name is taken from mod metadata ini file
 - the package version is taken directly from the tp2 file
 - packages always have the latest WeiDU version, at the time when they were created
