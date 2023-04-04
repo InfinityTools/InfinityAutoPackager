@@ -1,4 +1,5 @@
 # Infinity Auto Packager
+## Discussion
 https://www.gibberlings3.net/forums/topic/31131-infinity-auto-packager-automatically-generate-mod-packages-when-you-publish-a-release
 
 ## What does this tool do?
