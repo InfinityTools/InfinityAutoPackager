@@ -27,9 +27,11 @@ https://github.com/ALIENQuake/InfinityAutoPackager-Example
 
 ## How to do the one-time installation inside you mod repository  
 - By committing to the repository  
-1. Open repository Settings, go to "Actions", check if you have "Enable local and third party Actions for this repository" enabled  
-![Settings-Actions](https://i.imgur.com/i4fzaVf.png)
-1. Download [Infinity Auto Packager](https://github.com/InfinityTools/InfinityAutoPackager/archive/master.zip) repository, extract InfinityAutoPackager-master.zip file
+1. Check repository 'Actions' permissions: go to Settings > Actions and check rights:  
+![image](https://github.com/InfinityTools/InfinityAutoPackager/assets/365255/76e2e111-4080-42ef-92e1-75d0f959283d)
+...
+![image](https://github.com/InfinityTools/InfinityAutoPackager/assets/365255/b6be6bfa-8a87-4770-b324-a077554df8c8)
+1. Download Infinity Auto Packager repository, extract InfinityAutoPackager-master.zip file
 1. Copy '.github' folder into you top-level folder of the mod repository
 1. Commit and push changes to the remote repository
 
