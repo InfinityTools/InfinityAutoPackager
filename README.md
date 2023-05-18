@@ -29,8 +29,6 @@ https://github.com/ALIENQuake/InfinityAutoPackager-Example
 - By committing to the repository  
 1. Check repository 'Actions' permissions: go to Settings > Actions and check rights:  
 ![image](https://github.com/InfinityTools/InfinityAutoPackager/assets/365255/76e2e111-4080-42ef-92e1-75d0f959283d)
-...
-![image](https://github.com/InfinityTools/InfinityAutoPackager/assets/365255/b6be6bfa-8a87-4770-b324-a077554df8c8)
 1. Download Infinity Auto Packager repository, extract InfinityAutoPackager-master.zip file
 1. Copy '.github' folder into you top-level folder of the mod repository
 1. Commit and push changes to the remote repository
