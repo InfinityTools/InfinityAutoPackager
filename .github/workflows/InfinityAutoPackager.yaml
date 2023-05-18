@@ -10,6 +10,7 @@ jobs:
   InfinityAutoPackager:
     if: github.ref_type == 'tag'
     runs-on: ubuntu-latest
+    permissions: write-all
     steps:
 
       - name: Initial setup
