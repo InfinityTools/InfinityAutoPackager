@@ -1,6 +1,7 @@
 # Infinity Auto Packager by AL|EN (alienquake@hotmail.com)
 # A tool that automatically generates Infinity Engine mod packages when you publish a release.
 
+name: Infinity Auto Packager
 on:
   release:
     types: [published]
