@@ -18,27 +18,27 @@ The IEMOD format (https://github.com/ALIENQuake/ProjectInfinity/wiki/Specificati
 - the package name is taken from mod metadata ini file
 - the package version is taken directly from the tp2 file
 - packages always have the latest WeiDU version, at the time when they were created
-- the tool is a serverless microservice - it will work as long GitHub Actions will exist in any form
+- the tool is a serverless microservice - it will work as long GitHub Actions exist in any form
 
 ## Example:
 https://github.com/ALIENQuake/InfinityAutoPackager-Example
 
 ![](https://camo.githubusercontent.com/dd9fba57de0ba54dd2fd176672c8998ed7e44f0f/68747470733a2f2f73352e67696679752e636f6d2f696d616765732f4e6167727977616a5f323032305f30325f31375f31355f31315f34395f3932392e676966)
 
-## How to do the one-time installation inside you mod repository  
+## How to do the one-time installation inside your mod repository  
 - By committing to the repository  
 1. Check repository 'Actions' permissions: go to Settings > Actions and check rights:  
 ![image](https://github.com/InfinityTools/InfinityAutoPackager/assets/365255/76e2e111-4080-42ef-92e1-75d0f959283d)
-1. Download Infinity Auto Packager repository, extract InfinityAutoPackager-master.zip file
-1. Copy '.github' folder into you top-level folder of the mod repository
+1. Download the Infinity Auto Packager repository, extract the `InfinityAutoPackager-master.zip` file
+1. Copy '.github' folder into your top-level folder of the mod repository
 1. Commit and push changes to the remote repository
 
-- By using Github webpage directly  
+- By using the GitHub webpage directly  
 <details>
 <summary>Spoiler</summary>
-1. Open the main page of your mod, locate "Create new file" button 
+1. Open the main page of your mod, locate the "Create new file" button 
 <img src="https://i.imgur.com/AdQe2jf.png">
-2. paste this into the filename `.github/workflows/InfinityAutoPackager.yaml`, do not skip dot at the beginning 
+2. paste this into the filename `.github/workflows/InfinityAutoPackager.yaml`, do not miss the dot `.` at the beginning 
 <img src="https://i.imgur.com/kazdfBr.png">
 3. Open <a href="https://raw.githubusercontent.com/InfinityTools/InfinityAutoPackager/master/.github/workflows/InfinityAutoPackager.yaml">Infinity Auto Packager</a> file, copy all content and paste it into the editor, then click "Commit new file" in order to save changes
 <img src="https://i.imgur.com/N6PKhUW.png">
